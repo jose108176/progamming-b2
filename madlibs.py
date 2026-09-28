@@ -28,6 +28,7 @@ Noun_3=input("noun: ")
 Verb_1=input("verb: ")
 Adjective_4=input("adjective: ")
 
+
 print("The Story: Lost in Deep Space")
 print(f"Captain Star-Crasher woke up with a 1.{Adjective} headache")
 print(f"Looking out the view-screen of the USS 2.{Noun},they realized the ship was completely surrounded by space 3. {Plural_Noun}.")
